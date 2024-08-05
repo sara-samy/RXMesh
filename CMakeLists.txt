@@ -180,3 +180,4 @@ target_compile_definitions(RXMesh INTERFACE "EIGEN_DEFAULT_DENSE_INDEX_TYPE=int"
 include(GoogleTest)
 add_subdirectory(apps)
 add_subdirectory(tests)
+add_subdirectory(introduction)
